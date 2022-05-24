@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.f3504769.css",
-    "main.js": "./static/js/main.05c47167.js",
+    "main.css": "./static/css/main.3176b941.css",
+    "main.js": "./static/js/main.db57b957.js",
     "static/js/787.fef7c032.chunk.js": "./static/js/787.fef7c032.chunk.js",
     "static/media/imgConfig.png": "./static/media/imgConfig.dc0112c74fbe1e7d10fb.png",
     "static/media/headerTexture.png": "./static/media/headerTexture.97d6923d312d6bf67c5c.png",
     "static/media/imgAPI.png": "./static/media/imgAPI.bd731f9feaa8f75f7ceb.png",
     "static/media/imgPlugin.png": "./static/media/imgPlugin.e3012d6ddbb365981152.png",
+    "static/media/sectionTexture_1.png": "./static/media/sectionTexture_1.bee4c5f3179b376a1bed.png",
     "static/media/sectionTexture.png": "./static/media/sectionTexture.435c4a4d3813f5bfdb62.png",
     "static/media/prometheanexpand.ttf": "./static/media/prometheanexpand.04b7edbe897c9787d622.ttf",
     "static/media/navTexture.png": "./static/media/navTexture.76a71a884fc8685d343c.png",
     "static/media/HelveticaNeueCyr-UltraLight.ttf": "./static/media/HelveticaNeueCyr-UltraLight.f0b5bdde1b074e7d9110.ttf",
     "static/media/HelveticaNeueCyr-Roman.ttf": "./static/media/HelveticaNeueCyr-Roman.0ca719c710b1fbd7e02f.ttf",
     "index.html": "./index.html",
-    "main.f3504769.css.map": "./static/css/main.f3504769.css.map",
-    "main.05c47167.js.map": "./static/js/main.05c47167.js.map",
+    "main.3176b941.css.map": "./static/css/main.3176b941.css.map",
+    "main.db57b957.js.map": "./static/js/main.db57b957.js.map",
     "787.fef7c032.chunk.js.map": "./static/js/787.fef7c032.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3504769.css",
-    "static/js/main.05c47167.js"
+    "static/css/main.3176b941.css",
+    "static/js/main.db57b957.js"
   ]
 }
